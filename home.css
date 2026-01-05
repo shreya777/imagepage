@@ -1,0 +1,34 @@
+.image{
+    border-radius:50%;
+    width:200px;
+}
+
+.image-container {
+  display: flex;          
+  align-items: center;   
+  gap: 20px;         
+}
+
+.image-container img {
+  max-width: 300px;       
+  height: auto;
+}
+
+.container{
+    border-radius:20%;
+    width:350px;
+}
+
+.container1{
+    border-radius:20%;
+    width:280px;
+}
+
+.container2{
+    border-radius:20%;
+    width:250px;
+}
+
+.footer{
+    text-align:center;
+}
